@@ -30,6 +30,7 @@ Entre nossas atividades estão:
 
 | Cargo                                                    | Membro    |
 | -------------------------------------------------------- | --------- |
+| **Presidente**                                           | Joaquim   |
 | **Vice-Presidente**                                      | Vitória   |
 | **Secretário Geral**                                     | Luiz      |
 | **Diretor de Comunicação**                               | Otávio    |
