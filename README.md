@@ -39,8 +39,8 @@ Entre nossas atividades estão:
 
 ### Professores Orientadores
 
-* **Prof. Eliseu**
-* **Prof. Luiz**
+* **Dr. Eliseu Cesar Miguel**
+* **Dr. Luiz Eduardo da Silva**
 
 ---
 
