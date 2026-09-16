@@ -31,7 +31,7 @@ Entre nossas atividades estão:
 | Cargo                                                    | Membro    |
 | -------------------------------------------------------- | --------- |
 | **Presidente**                                           | Joaquim   |
-| **Vice-Presidente**                                      | Vitória   |
+| **Vice-Presidente**                                      | Victória   |
 | **Secretário Geral**                                     | Luiz      |
 | **Diretor de Comunicação**                               | Otávio    |
 | **Diretor de Integração de Ensino, Pesquisa e Extensão** | Francisco |
